@@ -4,7 +4,7 @@
 
 This project is the back-end part of a fullstasck project.
 
-The Java back-end most recent version is in this repository: https://github.com/YamilH/speaker2-back.
+The DOM Javascript clint-end most recent version is in this repository: https://github.com/YamilH/speaker-front.
 
 
 ## Back Project Structure
